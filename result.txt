@@ -1,0 +1,85 @@
+system: Linux
+processor: 13th Gen Intel(R) Core(TM) i9-13950HX
+python version: 3.13.12.final.0 (64 bit)
+
+#############################################################
+# Normal version:
+
+list generation time (s): 0.27894115447998047
+liste length: 100
+repetitions: 50000
+average time (s): 6.010717391967774e-05
+totatl time (s): 3.0053586959838867
+
+list generation time (s): 0.40857505798339844
+liste length: 1000
+repetitions: 10000
+average time (s): 0.0008179188013076782
+totatl time (s): 8.179188013076782
+
+list generation time (s): 0.3563203811645508
+liste length: 10000
+repetitions: 1000
+average time (s): 0.010700610876083374
+totatl time (s): 10.700610876083374
+
+list generation time (s): 0.34341883659362793
+liste length: 100000
+repetitions: 100
+average time (s): 0.13192505598068238
+totatl time (s): 13.192505598068237
+
+list generation time (s): 2.2311184406280518
+liste length: 1000000
+repetitions: 60
+average time (s): 1.704422688484192
+totatl time (s): 102.26536130905151
+
+list generation time (s): 4.64626669883728
+liste length: 10000000
+repetitions: 10
+average time (s): 22.452772426605225
+totatl time (s): 224.52772426605225
+
+#############################################################
+
+#############################################################
+# Modified version:
+
+list generation time (s): 0.2766995429992676
+liste length: 100
+repetitions: 50000
+average time (s): 5.5126409530639645e-05
+totatl time (s): 2.7563204765319824
+
+list generation time (s): 0.40741968154907227
+liste length: 1000
+repetitions: 10000
+average time (s): 0.0007924280643463135
+totatl time (s): 7.924280643463135
+
+list generation time (s): 0.3735642433166504
+liste length: 10000
+repetitions: 1000
+average time (s): 0.010727387666702271
+totatl time (s): 10.72738766670227
+
+list generation time (s): 0.3459498882293701
+liste length: 100000
+repetitions: 100
+average time (s): 0.12662919044494628
+totatl time (s): 12.662919044494629
+
+list generation time (s): 2.2739665508270264
+liste length: 1000000
+repetitions: 60
+average time (s): 1.648423683643341
+totatl time (s): 98.90542101860046
+
+list generation time (s): 4.675671577453613
+liste length: 10000000
+repetitions: 10
+average time (s): 21.692191934585573
+totatl time (s): 216.9219193458557
+
+#############################################################
