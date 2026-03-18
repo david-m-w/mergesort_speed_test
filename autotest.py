@@ -19,15 +19,15 @@ mergesort_normal.print_system_info()
 print()
 
 print("#############################################################")
-print("# Modified version:")
-print()
-for pair in iterations:
-    mergesort_modified.main(pair[0], pair[1], False)
-print("#############################################################")
-print()
-print("#############################################################")
 print("# Normal version:")
 print()
 for pair in iterations:
     mergesort_normal.main(pair[0], pair[1], False)
+print("#############################################################")
+print()
+print("#############################################################")
+print("# Modified version:")
+print()
+for pair in iterations:
+    mergesort_modified.main(pair[0], pair[1], False)
 print("#############################################################")
