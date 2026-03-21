@@ -1,0 +1,97 @@
+system: Darwin
+processor: Apple M4 Max
+python version: 3.14.3.final.0 (64 bit)
+
+#############################################################
+# Normal version:
+
+list generation time (s): 0.1976618766784668
+liste length: 100
+repetitions: 50000
+average time (s): 5.4968719482421875e-05
+totatl time (s): 2.7484359741210938
+
+list generation time (s): 0.2903001308441162
+liste length: 1000
+repetitions: 10000
+average time (s): 0.0007198096990585327
+totatl time (s): 7.198096990585327
+
+list generation time (s): 0.27114415168762207
+liste length: 10000
+repetitions: 1000
+average time (s): 0.009393375873565674
+totatl time (s): 9.393375873565674
+
+list generation time (s): 0.26672911643981934
+liste length: 100000
+repetitions: 100
+average time (s): 0.11399972915649415
+totatl time (s): 11.399972915649414
+
+list generation time (s): 1.6787769794464111
+liste length: 1000000
+repetitions: 60
+average time (s): 1.4187809665997824
+totatl time (s): 85.12685799598694
+
+list generation time (s): 3.0480520725250244
+liste length: 10000000
+repetitions: 10
+average time (s): 19.425361371040346
+totatl time (s): 194.25361371040344
+
+list generation time (s): 15.668394088745117
+liste length: 100000000
+repetitions: 5
+average time (s): 245.86908941268922
+totatl time (s): 1229.345447063446
+
+#############################################################
+
+#############################################################
+# Modified version:
+
+list generation time (s): 0.20165705680847168
+liste length: 100
+repetitions: 50000
+average time (s): 5.223353862762451e-05
+totatl time (s): 2.6116769313812256
+
+list generation time (s): 0.31479787826538086
+liste length: 1000
+repetitions: 10000
+average time (s): 0.0007099476099014282
+totatl time (s): 7.099476099014282
+
+list generation time (s): 0.29221320152282715
+liste length: 10000
+repetitions: 1000
+average time (s): 0.009259132862091065
+totatl time (s): 9.259132862091064
+
+list generation time (s): 0.2803456783294678
+liste length: 100000
+repetitions: 100
+average time (s): 0.11423097133636474
+totatl time (s): 11.423097133636475
+
+list generation time (s): 1.7255020141601562
+liste length: 1000000
+repetitions: 60
+average time (s): 1.3914042989412942
+totatl time (s): 83.48425793647766
+
+list generation time (s): 3.0902628898620605
+liste length: 10000000
+repetitions: 10
+average time (s): 19.053100490570067
+totatl time (s): 190.53100490570068
+
+list generation time (s): 15.882862091064453
+liste length: 100000000
+repetitions: 5
+average time (s): 240.04594221115113
+totatl time (s): 1200.2297110557556
+
+#############################################################
