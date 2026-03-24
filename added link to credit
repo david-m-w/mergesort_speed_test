@@ -19,7 +19,7 @@ def mergesort(input_):
         output_ = []
         
         #####################################################################################
-        # Modification (credit Sofia):
+        # Modification (credit Sofia (https://github.com/BuckbeakS007)):
         if list_a[0] >= list_b[0-1]:
             #output_ += list_b       
             #output_ += list_a
